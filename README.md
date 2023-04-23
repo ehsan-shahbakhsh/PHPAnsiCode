@@ -7,7 +7,7 @@ composer require php-ansi-code/php-ansi-code
 ```
 
 ## Example
-* [`index.php`](https://github.com/ehsan-shahbakhsh/PHPAnsiCode/example/index.php)
+* [`index.php`](https://github.com/ehsan-shahbakhsh/PHPAnsiCode/blob/main/example/index.php)
 
 ## Add Components To Project
 ```php
