@@ -1,5 +1,5 @@
 {
-  "name": "ehsan/php-ansi-code",
+  "name": "php-ansi-code/php-ansi-code",
   "description": "A short description of what your package does",
   "require": {
     "php": ">=7.4",
