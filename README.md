@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://packagist.org/packages/php-ansi-code/php-ansi-code" target="_blank"><img src="https://img.shields.io/packagist/dt/php-ansi-code/php-ansi-code" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/php-ansi-code/php-ansi-code" target="_blank"><img src="https://img.shields.io/packagist/v/php-ansi-code/php-ansi-code" alt="Latest Version"></a>
-<a href="https://packagist.org/packages/php-ansi-code/php-ansi-code" target="_blank"><img src="https://img.shields.io/packagist/l/php-ansi-code/php-ansi-code" alt="License"></a>
-</p>
-
 # PHPAnsiCode
 PHPAnsiCode is a library so that you can easily apply desired styles to your texts in the terminal.
 
