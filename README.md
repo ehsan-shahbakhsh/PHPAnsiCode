@@ -3,7 +3,7 @@ PHPAnsiCode is a library so that you can easily apply desired styles to your tex
 
 ## Installation
 ```
-
+composer require php-ansi-code/php-ansi-code
 ```
 
 ## Example
