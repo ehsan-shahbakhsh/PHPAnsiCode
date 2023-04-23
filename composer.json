@@ -1,6 +1,7 @@
 {
   "name": "php-ansi-code/php-ansi-code",
   "description": "A short description of what your package does",
+  "version": "1.0.0",
   "require": {
     "php": ">=7.4",
     "another-vendor/package": "1.*"
@@ -11,4 +12,3 @@
     }
   }
 }
-
