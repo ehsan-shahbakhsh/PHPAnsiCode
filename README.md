@@ -2,7 +2,7 @@
 PHPAnsiCode is a library so that you can easily apply desired styles to your texts in the terminal.
 
 ## Installation
-```
+```shell
 composer require php-ansi-code/php-ansi-code
 ```
 
