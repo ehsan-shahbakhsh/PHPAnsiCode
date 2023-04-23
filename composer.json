@@ -1,5 +1,5 @@
 {
-  "name": "PHPAnsiCode/PHPAnsiCode",
+  "name": "ehsan/PHPAnsiCode",
   "description": "A short description of what your package does",
   "require": {
     "php": ">=7.4",
