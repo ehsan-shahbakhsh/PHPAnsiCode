@@ -139,9 +139,9 @@ class Ansi
      */
     public static function coolThing(): void
     {
-        for ($i = 1; $i < 16; $i++) {
+        for ($i = 0; $i < 17; $i++) {
             for ($j = 1; $j < 16; $j++) {
-                $code = ($i * 16 + $j);
+                $code = ($i * 15 + $j);
                 echo sprintf("\033[38;5;%dm%s \033[0m", $code, $code);
             }
             echo PHP_EOL;
